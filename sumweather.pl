@@ -1,4 +1,5 @@
 #!/usr/bin/perl -w
+#sumweather.pl 
 use URI::Escape;
 
 @files = <*>;
